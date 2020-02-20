@@ -1,0 +1,32 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="Primary">#c62828</Color>
+    <SolidColorBrush x:Key="PrimaryBrush" Color="{StaticResource Primary}" />
+    <SolidColorBrush x:Key="TitleBarColor" Color="{StaticResource PrimaryLight}" />
+
+    <Color x:Key="PrimaryLight">#ff5f52</Color>
+    <SolidColorBrush x:Key="PrimaryLightBrush" Color="{StaticResource PrimaryLight}" />
+    <SolidColorBrush x:Key="MenuSelectedColor" Color="{StaticResource PrimaryLight}" />
+
+
+    <Color x:Key="PrimaryDark">#8e0000</Color>
+    <SolidColorBrush x:Key="PrimaryDarkBrush" Color="{StaticResource PrimaryDark}" />
+
+    <Color x:Key="PrimaryText">#C62828</Color>
+    <SolidColorBrush x:Key="PrimaryTextBrush" Color="{StaticResource PrimaryText}" />
+
+    <Color x:Key="PrimaryLightText">#ff5f52</Color>
+    <SolidColorBrush x:Key="PrimaryLightTexttBrush" Color="{StaticResource PrimaryLightText}" />
+
+    <Color x:Key="PrimaryDarkText">#8e0000</Color>
+    <SolidColorBrush x:Key="PrimaryDarkTextBrush" Color="{StaticResource PrimaryDarkText}" />
+
+    <Color x:Key="WhitePaper">#F5F5F6</Color>
+    <SolidColorBrush x:Key="WhitePaperBrush" Color="{StaticResource WhitePaper}" />
+
+    <Color x:Key="GreyPaper">#E1E2E1</Color>
+    <SolidColorBrush x:Key="GreyPaperBrush" Color="{StaticResource GreyPaper}" />
+
+
+</ResourceDictionary>

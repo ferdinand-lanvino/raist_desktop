@@ -12,3 +12,17 @@ E:\BIT\Git\raist_desktop\raist_desktop\obj\Debug\raist_desktop.Properties.Resour
 E:\BIT\Git\raist_desktop\raist_desktop\obj\Debug\raist_desktop.csproj.GenerateResource.cache
 E:\BIT\Git\raist_desktop\raist_desktop\obj\Debug\raist_desktop.exe
 E:\BIT\Git\raist_desktop\raist_desktop\obj\Debug\raist_desktop.pdb
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\MaterialDesignColors.dll
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\Newtonsoft.Json.dll
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\zxing.dll
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\zxing.presentation.dll
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\MaterialDesignColors.pdb
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\Newtonsoft.Json.xml
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\zxing.pdb
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\zxing.xml
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\zxing.presentation.pdb
+E:\BIT\Git\raist_desktop\raist_desktop\bin\Debug\zxing.presentation.xml
+E:\BIT\Git\raist_desktop\raist_desktop\obj\Debug\raist_desktop.csproj.CopyComplete
